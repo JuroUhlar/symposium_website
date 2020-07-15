@@ -1,0 +1,409 @@
+#features {
+  padding-bottom: 10px;
+}
+
+#buy-ticket {
+  background-color: #e84545;
+  padding: 30px;
+  margin: 70px 0px;
+  color: white;
+}
+
+#buy-ticket h3, #buy-ticket p {
+  color: white;
+}
+
+#registrace .feature-content {
+  background-color: #F3F3F3;
+  min-height: 155px;
+  padding-top: 20px;
+}
+
+#registrace .current-ticket {
+  border: 5px solid #e84545;
+  /*border-left: 8px solid #e84545;*/
+}
+
+.current-ticket h3 {
+  font-size: 30px;
+}
+
+
+
+
+#headline1 {
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+
+p {
+  font-size: 15px;
+  color: #575b60;
+}
+
+#blocks {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+#download {
+  /*background-color: #3A3E64;*/
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+}
+
+.ticket-price {
+  font-weight: 400;
+  color: #E84545;
+}
+
+.normal-list li {
+  list-style: circle;
+  margin-left: 25px;
+}
+
+.super-bold {
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.partner-logo {
+  height: 100px;
+  margin-top: 30px;
+}
+
+.site-picture {
+    width: 100%;
+}
+
+
+
+.red-rectangle-light {
+  background-color: #fad9d9;
+  padding:  10px 0px;
+}
+
+.partners .row h3 {
+  font-weight: 500;
+}
+
+.red-rectangle-medium {
+  background-color: #f18f8f;
+  padding: 10px 0px;
+}
+
+.red-rectangle-red {
+  background-color: #e84545;
+  padding: 10px 0px;
+}
+
+.red-border-light {
+  border-left: 10px solid #fad9d9;
+  padding-left: 15px;
+}
+
+.red-border-medium {
+  border-left: 10px solid #f18f8f;
+  padding-left: 15px;
+}
+
+.red-border-red {
+  border-left: 10px solid #e84545;
+  padding-left: 15px;
+}
+
+
+.time h4, .block h3, .block h4 {
+  margin-top: 0px;
+}
+
+.time h4 {
+  font-size: 18px;
+}
+
+
+
+.day-headline {
+  border-bottom: 1px solid black;
+  margin-bottom: 40px;
+}
+
+.day-headline h3 {
+  font-weight: 500;
+}
+
+.banner-small {
+  min-height: 350px;
+}
+
+.banner-small .banner-text {
+  padding-top: 170px;
+}
+
+/*.speaker {
+  margin-bottom: 30px;
+}*/
+
+
+
+.margin-bottom-30 {
+  margin-bottom: 30px;
+}
+
+.no-bottom-margin {
+  margin-bottom: 0px;
+}
+
+.speaker h3 {
+  color: #E84545;
+  font-weight: 400;
+  margin-top: 0px;
+}
+
+.speaker h5 {
+  margin-top: 25px;
+}
+
+.more-soon {
+  text-align: center;
+}
+
+.more-soon h4 {
+  margin-top: 40%;
+}
+
+.red {
+  color: #E84545;
+}
+
+.program-line {
+  margin-bottom: 20px;
+}
+
+.padd-left {
+  padding-left: 70px;
+}
+
+.dark p, .dark h3, .dark h5 {
+color: #ffffff;
+}
+
+.banner-text .btn {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.feature-content h2 {
+  color: #FFFFFF;
+}
+
+.numbers {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #3A3E64;
+  margin-bottom: 30px;
+}
+
+.banner {
+  background-color: #292C47;
+}
+
+
+
+.banner-text h1 {
+  /*margin-bottom: 50px;*/
+  font-family: Raleway;
+  font-size: 40px;
+  font-weight: 400;
+  text-transform: none;
+
+
+}
+
+.btn-white {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+
+.btn-white:hover {
+  border: 2px solid white;
+}
+
+.banner-text .btn-program {
+    background-color: white;
+    color: black;
+}
+
+.header-content .navigation{
+  margin-top: 17px;
+}
+
+#header .header-content {
+  padding: 17px 0;
+}
+
+p.tagline {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.banner-text p {
+    margin-bottom: 40px;
+}
+
+.testimonials p {
+  font-size: 20px;
+
+}
+
+#testimonials {
+  margin-top: 35px;
+}
+
+#references {
+  padding-top: 50px;
+  padding-bottom: 0px;
+}
+
+#contacts {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 10px 0px;
+  background-color: #F3F3F3;
+}
+
+.footer-bottom p {
+  font-size: 12px;
+}
+
+.footer-top p {
+  margin-top: 15px;
+}
+
+.team-photo {
+  max-width: 200px;
+}
+
+.oc .person {
+  margin-bottom: 50px;
+}
+
+.oc-position {
+      font-size: 14px !important;
+    color: #2d3033 !important;
+    text-transform: uppercase !important;
+    font-weight: 700 !important;
+    margin-bottom: 10px !important;
+    height: 32px !important;
+}
+
+
+.cognito {text-align:center;}
+.cognito #c-forms-form{display:inline-block;}
+.cognito .c-field {text-align:left;min-width:300px;}
+.c-action {text-align: center !important;}
+
+.cognito #c-submit-button {
+  background-color: #e84545;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: "Raleway", sans-serif;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.work .overlay-caption {
+  padding: 20px;
+}
+
+
+.work .overlay-caption p {
+  font-size: 15px;
+}
+
+
+.text-left-not-xs, .text-left-not-sm, .text-left-not-md, .text-left-not-lg {
+    text-align: left;
+}
+.text-center-not-xs, .text-center-not-sm, .text-center-not-md, .text-center-not-lg {
+    text-align: center;
+}
+.text-right-not-xs, .text-right-not-sm, .text-right-not-md, .text-right-not-lg {
+    text-align: right;
+}
+.text-justify-not-xs, .text-justify-not-sm, .text-justify-not-md, .text-justify-not-lg {
+    text-align: justify;
+}
+
+@media (max-width: 767px) {
+    .text-left-not-xs, .text-center-not-xs, .text-right-not-xs, .text-justify-not-xs {
+        text-align: inherit;
+    }
+    .text-left-xs {
+        text-align: left;
+    }
+    .text-center-xs {
+        text-align: center;
+    }
+    .text-right-xs {
+        text-align: right;
+    }
+    .text-justify-xs {
+        text-align: justify;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .text-left-not-sm, .text-center-not-sm, .text-right-not-sm, .text-justify-not-sm {
+        text-align: inherit;
+    }
+    .text-left-sm {
+        text-align: left;
+    }
+    .text-center-sm {
+        text-align: center;
+    }
+    .text-right-sm {
+        text-align: right;
+    }
+    .text-justify-sm {
+        text-align: justify;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    .text-left-not-md, .text-center-not-md, .text-right-not-md, .text-justify-not-md {
+        text-align: inherit;
+    }
+    .text-left-md {
+        text-align: left;
+    }
+    .text-center-md {
+        text-align: center;
+    }
+    .text-right-md {
+        text-align: right;
+    }
+    .text-justify-md {
+        text-align: justify;
+    }
+}
+@media (min-width: 1200px) {
+    .text-left-not-lg, .text-center-not-lg, .text-right-not-lg, .text-justify-not-lg {
+        text-align: inherit;
+    }
+    .text-left-lg {
+        text-align: left;
+    }
+    .text-center-lg {
+        text-align: center;
+    }
+    .text-right-lg {
+        text-align: right;
+    }
+    .text-justify-lg {
+        text-align: justify;
+    }
+}
